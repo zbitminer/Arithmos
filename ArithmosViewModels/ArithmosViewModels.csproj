@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
 		<OutputType>Library</OutputType>
 		<TargetFramework>net5.0-windows</TargetFramework>
@@ -34,7 +34,7 @@
 		<PackageReference Include="Microsoft.Toolkit.Mvvm" Version="7.0.2" />
 		<PackageReference Include="System.Configuration.ConfigurationManager" Version="5.0.0" />
 		<PackageReference Include="System.Data.SQLite.Core">
-			<Version>1.0.114.3</Version>
+			<Version>2.0.1</Version>
 		</PackageReference>
 	</ItemGroup>
 	<ItemGroup>
